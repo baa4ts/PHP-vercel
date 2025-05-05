@@ -9,4 +9,4 @@ vendor/
 *.swp
 *~
 *.bak
-/data/
+db/data/
